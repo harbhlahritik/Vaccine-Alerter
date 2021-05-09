@@ -42,3 +42,6 @@ Starts the node server
 
 pm2 logs
 To check the logs of vaccine tracker
+
+
+by Hritik Harbhla, contact: harbhlahritik1@gmail.com
