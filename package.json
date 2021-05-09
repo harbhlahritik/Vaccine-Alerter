@@ -1,0 +1,25 @@
+{
+  "name": "vaccine-alerter",
+  "version": "1.0.0",
+  "description": "Vaccine alert service",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Hritik Harbhla",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cors": "^2.8.5",
+    "dotenv": "^9.0.0",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "node-cron": "^3.0.0",
+    "node-fetch": "^2.6.1",
+    "nodemailer": "^6.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
