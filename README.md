@@ -9,8 +9,8 @@ make .env file after cloning directory
 add these 
 
 PORT=6000
-EMAIL=vaccine.alerter.cowin@gmail.com OR {Your email which can send mail but should have less secure app access enabled}
-PASSWORD=V@ccin3Al3rt3r
+EMAIL={Your email which can send mail but should have less secure app access enabled}
+PASSWORD={Mail Server password}
 RECEIVER_EMAIL={Your Email}
 RECEIVER_NAME={Your Name}
 RECEIVER_PHONE={Your Phone}
